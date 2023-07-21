@@ -1,5 +1,5 @@
-# kosultasi-dokter
-
+# Konsul Doc
+![Logo Satset](https://github.com/Konsul-Doc/kosultasi-dokter/assets/79624714/7c0755f1-600a-4f21-8040-4ddf3632c491)
 Nama Tim : Tim Sats3t
 
 Nama Anggota : 
