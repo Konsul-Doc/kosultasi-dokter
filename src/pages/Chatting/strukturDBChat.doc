@@ -1,0 +1,29 @@
+- chatting 
+  - chatID(uid1, uid2) --> id user dan id doctor
+    - allChat
+      - dateChat --> (2023-01-10)
+        - chat1
+          - sendBy
+          - chatDate
+          - chatTime
+          - chatContent -> isi chat
+
+      - dateChat --> (2023-01-11)
+        - chat1
+          - sendBy
+          - chatDate
+          - chatTime
+          - chatContent -> isi chat
+
+- message
+  - uid --> tidak bisa saling melihat chat user lain
+    - chatID(uid1, uid2) --> id user dan id doctor
+       - lastChat
+       - lastChatDate
+       - uidPartner
+  
+  - uid --> id user
+    - chatID(uid1, uid2) --> id user dan id doctor
+       - lastChat
+       - lastChatDate
+       - uidPartner
